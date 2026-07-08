@@ -19,7 +19,7 @@ const map = L.map("map").setView(
   // ③ GeoJSONを読み込む
   // ================================
   
-  fetch("./opendata/darkness.geojson")
+  fetch("opendata/darkness.geojson")
     .then((response) => {
       if (!response.ok) {
         throw new Error("GeoJSONファイルの読み込みに失敗しました。");
