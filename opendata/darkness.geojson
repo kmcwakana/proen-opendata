@@ -1,0 +1,379 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.969103,
+          134.354524
+        ]
+      },
+      "properties": {
+        "ID": 1,
+        "name": "神領小学校西",
+        "Lv": 2,
+        "remarks": "街灯なし",
+        "Link": "https://maps.gsi.go.jp/#18/33.969103/134.354524"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.970826,
+          134.361975
+        ]
+      },
+      "properties": {
+        "ID": 2,
+        "name": "遊歩道",
+        "Lv": 2,
+        "remarks": "破損街灯あり",
+        "Link": "https://maps.gsi.go.jp/#18/33.970826/134.361975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.969169,
+          134.352822
+        ]
+      },
+      "properties": {
+        "ID": 3,
+        "name": "第二大埜地橋",
+        "Lv": 1,
+        "remarks": "虫やばいよ",
+        "Link": "https://maps.gsi.go.jp/#18/33.969169/134.352822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.973683,
+          134.359859
+        ]
+      },
+      "properties": {
+        "ID": 4,
+        "name": "高専OFICE裏",
+        "Lv": 2,
+        "remarks": "街灯なし",
+        "Link": "https://maps.gsi.go.jp/#18/33.973683/134.359859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.968492,
+          33.968492
+        ]
+      },
+      "properties": {
+        "ID": 5,
+        "name": "438号寄居エリア",
+        "Lv": 2,
+        "remarks": "街灯ほとんどない",
+        "Link": "https://maps.gsi.go.jp/#18/33.968492/33.968492"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.972228,
+          134.368988
+        ]
+      },
+      "properties": {
+        "ID": 6,
+        "name": "Cotton Field接続道",
+        "Lv": 3,
+        "remarks": "街灯なし",
+        "Link": "https://maps.gsi.go.jp/#18/33.972228/134.368988"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.973239,
+          134.370544
+        ]
+      },
+      "properties": {
+        "ID": 7,
+        "name": "神山温泉接続道",
+        "Lv": 2,
+        "remarks": "街灯なし,交通量多",
+        "Link": "https://maps.gsi.go.jp/#18/33.973239/134.370544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.978429,
+          134.374837
+        ]
+      },
+      "properties": {
+        "ID": 8,
+        "name": "8",
+        "Lv": 3,
+        "remarks": "街灯なし,交通量多",
+        "Link": "https://maps.gsi.go.jp/#18/33.978429/134.374837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.969815,
+          134.362654
+        ]
+      },
+      "properties": {
+        "ID": 9,
+        "name": "大久保方面接続道",
+        "Lv": 3,
+        "remarks": "街灯なし",
+        "Link": "https://maps.gsi.go.jp/#18/33.969815/134.362654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.968531,
+          134.361277
+        ]
+      },
+      "properties": {
+        "ID": 10,
+        "name": "まつうら付近",
+        "Lv": 2,
+        "remarks": "街灯なし,交通量多",
+        "Link": "https://maps.gsi.go.jp/#18/33.968531/134.361277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.969435,
+          134.360502
+        ]
+      },
+      "properties": {
+        "ID": 11,
+        "name": "葛倉神社(腰之宮神社)付近",
+        "Lv": 2,
+        "remarks": "街灯なし",
+        "Link": "https://maps.gsi.go.jp/#18/33.969435/134.360502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.977733,
+          134.373258
+        ]
+      },
+      "properties": {
+        "ID": 12,
+        "name": "松葉庵付近",
+        "Lv": 2,
+        "remarks": "街灯少ない",
+        "Link": "https://maps.gsi.go.jp/#18/33.977733/134.373258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.974821,
+          134.361676
+        ]
+      },
+      "properties": {
+        "ID": 13,
+        "name": "協業組合かみやま前",
+        "Lv": 3,
+        "remarks": "街灯なし",
+        "Link": "https://maps.gsi.go.jp/#18/33.974821/134.361676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.968856,
+          134.345751
+        ]
+      },
+      "properties": {
+        "ID": 14,
+        "name": "ファミリーマート前",
+        "Lv": 1,
+        "remarks": "街灯なし,ファミリーマートが明るい",
+        "Link": "https://maps.gsi.go.jp/#18/33.968856/134.345751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.968847,
+          134.345979
+        ]
+      },
+      "properties": {
+        "ID": 15,
+        "name": "PECHE前",
+        "Lv": 1,
+        "remarks": "街灯なし,ファミリーマートのおかげで明るい",
+        "Link": "https://maps.gsi.go.jp/#18/33.968847/134.345979"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.968778,
+          134.346767
+        ]
+      },
+      "properties": {
+        "ID": 16,
+        "name": "高根谷橋",
+        "Lv": 2,
+        "remarks": "街灯なし,夏はホタルが見れるかも",
+        "Link": "https://maps.gsi.go.jp/#18/33.968778/134.346767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.968709,
+          134.347887
+        ]
+      },
+      "properties": {
+        "ID": 17,
+        "name": "稲荷大明神前",
+        "Lv": 2,
+        "remarks": "街灯なし",
+        "Link": "https://maps.gsi.go.jp/#18/33.968709/134.347887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.968549,
+          134.349656
+        ]
+      },
+      "properties": {
+        "ID": 18,
+        "name": "野間谷橋",
+        "Lv": 2,
+        "remarks": "街灯なし,夏はホタルが見れるかも",
+        "Link": "https://maps.gsi.go.jp/#18/33.968549/134.349656"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.97077372,
+          134.3596086
+        ]
+      },
+      "properties": {
+        "ID": 19,
+        "name": "神山体育館裏",
+        "Lv": 1,
+        "remarks": NaN,
+        "Link": "https://maps.gsi.go.jp/#18/33.9707737158741/134.359608578682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.95736268,
+          134.2854802
+        ]
+      },
+      "properties": {
+        "ID": 20,
+        "name": "川又集落入口",
+        "Lv": 2,
+        "remarks": "道細い,街灯なし,動物注意",
+        "Link": "https://maps.gsi.go.jp/#18/33.9573626798797/134.285480219421"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.96798357,
+          134.3446158
+        ]
+      },
+      "properties": {
+        "ID": 21,
+        "name": "やまびこ近く",
+        "Lv": 2,
+        "remarks": NaN,
+        "Link": "https://maps.gsi.go.jp/#18/33.9679835682393/134.344615756968"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.96675656,
+          134.3507662
+        ]
+      },
+      "properties": {
+        "ID": 22,
+        "name": "役場裏",
+        "Lv": 2,
+        "remarks": "街灯なし",
+        "Link": "https://maps.gsi.go.jp/#18/33.9667565556412/134.350766210441"
+      }
+    }
+  ]
+}
